@@ -8,7 +8,7 @@ including the following features:
 - sound
 - drag and drop
 - minimal game state management
-
+![Image Alt](https://github.com/4ayyappadasks/multiplayergamecard/blob/9ef3e338b6b4fbac790907aa604d3eabefca6579/assets/git%20image.png)
 You can jump directly into building your game in `lib/play_session/`.
 
 When you're ready for things like ads, in-app purchases, achievements,
